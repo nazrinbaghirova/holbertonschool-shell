@@ -1,1 +1,1 @@
-Holberton Shell Repository
+Holberton Shell repository
