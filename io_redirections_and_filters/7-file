@@ -1,2 +1,4 @@
 #!/bin/bash
-cat > "*\\\"Best School\"\\'*\\$\\?\\*\\*\\*\\*\\*:)" <<< "Best School"
+cat > '*"Best School"'\'$?***** << 'EOF2'
+Best School
+EOF2
