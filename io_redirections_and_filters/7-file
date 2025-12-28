@@ -1,0 +1,11 @@
+#!/bin/bash
+cat > "*\\\"Best School\"\\'*\\$\\?\\*\\*\\*\\*\\*:)" << 'END'
+Best School
+
+cat > 7-file << 'EOF'
+#!/bin/bash
+cat > "*\\\"Best School\"\\'*\\$\\?\\*\\*\\*\\*\\*:)" << 'END'
+Best School
+
+
+END
