@@ -1,1 +1,1 @@
-Holberton Shell repository
+Shell initialization files and expansions
