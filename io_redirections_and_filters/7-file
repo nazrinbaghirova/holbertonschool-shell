@@ -1,4 +1,2 @@
 #!/bin/bash
-cat > '*"Best School"'\'$?***** << 'EOF2'
-Best School
-EOF2
+echo "Best School" > '*"Best School"'\'$?*****
